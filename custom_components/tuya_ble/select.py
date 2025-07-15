@@ -124,13 +124,11 @@ mapping: dict[str, TuyaBLECategorySelectMapping] = {
                     dp_id=33,
                     description=SelectEntityDescription(
                         key="auto_lock",
+                        name="Auto Lock",
                         icon="mdi:lock-clock",
                         options=[
                             "off",
-                            "5s",
-                            "10s",
-                            "30s",
-                            "60s",
+                            "on",
                         ],
                         entity_category=EntityCategory.CONFIG,
                     ),
