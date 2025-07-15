@@ -1,0 +1,7 @@
+{
+  "name": "Tuya BLE",
+  "content_in_root": false,
+  "domains": ["tuya_ble"],
+  "country": ["all"],
+  "homeassistant": "2022.0.0"
+} 
