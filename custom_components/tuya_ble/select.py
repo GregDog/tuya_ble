@@ -153,18 +153,18 @@ mapping: dict[str, TuyaBLECategorySelectMapping] = {
                     ),
                     dp_type=TuyaBLEDataPointType.DT_ENUM,
                 ),
-                TuyaBLESelectMapping(
-                    dp_id=68,
-                    description=SelectEntityDescription(
-                        key="special_function",
-                        icon="mdi:tools",
-                        options=[
-                            "function1",
-                            "function2",
-                        ],
-                        entity_category=EntityCategory.CONFIG,
-                    ),
-                ),
+                # TuyaBLESelectMapping(
+                #     dp_id=68,
+                #     description=SelectEntityDescription(
+                #         key="special_function",
+                #         icon="mdi:tools",
+                #         options=[
+                #             "function1",
+                #             "function2",
+                #         ],
+                #         entity_category=EntityCategory.CONFIG,
+                #     ),
+                # ),
             ]
         }
     ),
