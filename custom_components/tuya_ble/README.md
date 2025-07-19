@@ -1,3 +1,9 @@
+[![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg?style=flat-square)](https://hacs.xyz/)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/gregd72002/tuya_ble?style=flat-square)](https://github.com/gregd72002/tuya_ble/issues)
+[![GitHub stars](https://img.shields.io/github/stars/gregd72002/tuya_ble?style=flat-square)](https://github.com/gregd72002/tuya_ble/stargazers)
+[![GitHub last commit](https://img.shields.io/github/last-commit/gregd72002/tuya_ble?style=flat-square)](https://github.com/gregd72002/tuya_ble/commits/main)
+
 # Tuya BLE
 
 A custom integration for Home Assistant to support Tuya BLE (Bluetooth Low Energy) devices natively.
